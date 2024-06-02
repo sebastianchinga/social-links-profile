@@ -1,6 +1,5 @@
 src/
 node_modules/
-design/
 *.json
 gulpfile.js
 *.md
